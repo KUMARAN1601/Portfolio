@@ -1,0 +1,20 @@
+nav{
+  font-weight: 400;
+  /* font-size: 1rem; */
+  /* font-family: 'Poppins', sans-serif; */
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  line-height: 1.5;
+  letter-spacing: 0.04988em; 
+  box-sizing: border-box;
+}
+#top{
+  background-color: #091c34; 
+}
+nav a b{
+  color: white;
+  transition: all .2s linear;
+} 
+nav a b:hover{
+  color: #c6ff00;
+}
+
