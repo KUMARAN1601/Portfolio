@@ -59,8 +59,14 @@ const Skills=(props)=>{
           </div>
           <div className="col-lg-4 col-md-6 col-sm-6">
             <div className="skills">
-              <p><img src="Assets/images/Java.png" alt="..."/>
-              Java</p>
+              <p><img src="Assets/images/c.png" alt="..."/>
+              C </p>
+            </div>
+        </div>
+        <div className="col-lg-4 col-md-6 col-sm-6">
+            <div className="skills">
+              <p><img src="Assets/images/python.png" alt="..."/>
+              Python</p>
             </div>
         </div>
         <div className="col-lg-4">

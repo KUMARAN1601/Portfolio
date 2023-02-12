@@ -61,7 +61,7 @@ const Banner =(props)=>{
     <div className="container" id='scroll1'>
       <div className="card">
       <div className="about">
-          <img src="Assets/images/profile.jpg" class="img-fluid" alt="..."/>
+          <img src="Assets/images/kumaran.jpeg" class="img-fluid" alt="..."/>
           <br/>
           <h3 className="text-center" id="aboutme">About me.</h3>
           <p className="text-center">
